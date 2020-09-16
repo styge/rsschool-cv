@@ -39,3 +39,17 @@
 ## Work experience:
 
 #### [Code-Basics:](https://code-basics.com/): JavaScript for beginners, CSS for beginners, HTML for beginners.
+
+----
+
+## Education:
+
+#### 2015-2019 Moscow University of Finance and Law (MFUA), faculty of Information Technology, specialty - аpplied Informatics (bachelor).
+
+#### 2009-2013 Ryazan College of Electronics, specialty - maintenance and repair of radio-electronic equipment.
+
+----
+
+## English: 
+
+#### A2 (Pre-intermediate)
