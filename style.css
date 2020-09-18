@@ -1,1 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
 
+.photo {
+    height: 318px;
+    width: 375px;
+}
+
+.name {
+    margin-bottom: 0px;
+}
+
+ul{
+    display:inline-block;
+    text-align: left;
+    margin-top: 0px;
+}
+
+li{
+    text-align: left;
+}
